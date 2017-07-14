@@ -7,10 +7,9 @@
 					"type": "Talk"
 				}
 			],
-			"name": "test",
-			"date": "2017-01-01",
-			"city": "tesat",
-			"country": "[object HTMLElement]"
+			"name": "tesat",
+			"country": "[object HTMLElement]",
+			"comment": "asetae"
 		},
 		{
 			"talk": [
