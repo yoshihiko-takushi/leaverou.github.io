@@ -7,6 +7,18 @@
 					"type": "Talk"
 				}
 			],
+			"name": "test",
+			"date": "2017-01-01",
+			"city": "tesat",
+			"country": "[object HTMLElement]"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"url": "http://viewsourceconf.org/",
 			"name": "View Source",
 			"date": "2017-10-27",
